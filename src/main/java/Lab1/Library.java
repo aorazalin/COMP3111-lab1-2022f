@@ -1,7 +1,7 @@
 package Lab1;
 
 public class Library {
-
+    // whatever
     /* Add this function */
     public static void main(String arg[]) {
         Library lib = new Library();
